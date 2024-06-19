@@ -11,6 +11,16 @@ hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
 
 [[files]]
+file = "mods/astikor-carts-redux.pw.toml"
+hash = "9c55eeb7b61f7180cbd99a833b9fab5cb9121f747610f9eefd6be7361d1d0a7b"
+metafile = true
+
+[[files]]
+file = "mods/astikor-carts-tfc.pw.toml"
+hash = "1835311f2697ecfb4ca6a33b92fe2b414cb290461a40ae890cc63dc1ab49f460"
+metafile = true
+
+[[files]]
 file = "mods/barrels-2012.pw.toml"
 hash = "e3ddb6c3aa1f1f5393ad908b0741f459dd5e0440e383b8a5aa2598122b9f1a39"
 metafile = true
@@ -18,11 +28,6 @@ metafile = true
 [[files]]
 file = "mods/canary.pw.toml"
 hash = "e5df83a3dd1686106741d1d61da5869aed0537c2931a40234e1b3bd2d09e1971"
-metafile = true
-
-[[files]]
-file = "mods/carry-on.pw.toml"
-hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
 metafile = true
 
 [[files]]
@@ -47,12 +52,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "9c40d93faafec73d656e5ddbc89a63add1777baccbeb839be1a5fb1247430ae8"
+hash = "45b33377f2b22260c9eedd2438c38fde617215966fb0bdb5148142ba2d301b58"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "484b7b7d2061da47916afe66438539048c2cc6a690ab61fb8b60050f18e39df0"
+hash = "3de9fc56a1f656b20b308f462aac84aa50bd30551371137b752db21cf5091cfd"
 metafile = true
 
 [[files]]
@@ -87,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "b9e82527f9d5d2152c4e095c00a3d0a30a29825479fd73e7e24a2634bde112be"
+hash = "fe0c032092af5482bd2255148c55ed5b9fabdfeccff4fe24f2faf488d04c5d15"
 metafile = true
 
 [[files]]
@@ -112,7 +117,12 @@ metafile = true
 
 [[files]]
 file = "mods/terrafirmacraft.pw.toml"
-hash = "00a87746b0705492e636ad566e6d0306835ce77cc5cdb307d1455f33e72ddb93"
+hash = "05fd001724743b8566bc84ccf435aae18fe2c6bd5dbb7e099073d4c39c012074"
+metafile = true
+
+[[files]]
+file = "mods/tfc-ambiental-second-edition.pw.toml"
+hash = "799bd5e36db262fef97525ca39f0b07dcc6284c9d3fb75d61a9606516f935da8"
 metafile = true
 
 [[files]]
