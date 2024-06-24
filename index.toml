@@ -111,6 +111,11 @@ hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
 metafile = true
 
 [[files]]
+file = "mods/precision-prospecting.pw.toml"
+hash = "fef154179a8323cd7d55c1e273c66bafc0c4f68d4a08270dca080d060a567f8c"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
 metafile = true
@@ -118,11 +123,6 @@ metafile = true
 [[files]]
 file = "mods/terrafirmacraft.pw.toml"
 hash = "05fd001724743b8566bc84ccf435aae18fe2c6bd5dbb7e099073d4c39c012074"
-metafile = true
-
-[[files]]
-file = "mods/tfc-ambiental-second-edition.pw.toml"
-hash = "799bd5e36db262fef97525ca39f0b07dcc6284c9d3fb75d61a9606516f935da8"
 metafile = true
 
 [[files]]
